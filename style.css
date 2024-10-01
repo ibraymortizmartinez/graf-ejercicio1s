@@ -1,0 +1,14 @@
+/* Estilos para la imagen */
+#image {
+    transition: all 0.3s ease;
+}
+
+.link {
+    text-decoration: none;
+    padding: 0.5rem 0.75rem;
+    font-size: 18px;
+    font-weight: 600;
+    color:#fefefe;
+    position: relative;
+    transition: color 0.25s;
+}
